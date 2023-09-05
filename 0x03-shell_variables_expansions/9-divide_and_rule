@@ -1,2 +1,0 @@
-#!/bin/bashecho
-echo $(($POWER / $DIVIDE))
